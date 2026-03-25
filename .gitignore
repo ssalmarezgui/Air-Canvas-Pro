@@ -1,0 +1,4 @@
+env_pro/
+__pycache__/
+.vscode/
+*.mp4
